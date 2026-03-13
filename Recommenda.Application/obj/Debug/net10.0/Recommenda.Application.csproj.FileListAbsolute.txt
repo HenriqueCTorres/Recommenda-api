@@ -1,0 +1,16 @@
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\bin\Debug\net10.0\Recommenda.Application.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\bin\Debug\net10.0\Recommenda.Application.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\bin\Debug\net10.0\Recommenda.Application.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\bin\Debug\net10.0\Recommenda.Domain.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\bin\Debug\net10.0\Recommenda.Domain.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\obj\Debug\net10.0\Recommenda.Application.csproj.AssemblyReference.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\obj\Debug\net10.0\Recommenda.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\obj\Debug\net10.0\Recommenda.Application.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\obj\Debug\net10.0\Recommenda.Application.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\obj\Debug\net10.0\Recommenda.Application.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\obj\Debug\net10.0\Recommenda.Application.sourcelink.json
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\obj\Debug\net10.0\Recommen.18DA4844.Up2Date
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\obj\Debug\net10.0\Recommenda.Application.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\obj\Debug\net10.0\refint\Recommenda.Application.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\obj\Debug\net10.0\Recommenda.Application.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\Recommenda\Recommenda\Recommenda.Application\obj\Debug\net10.0\ref\Recommenda.Application.dll

@@ -1,0 +1,29 @@
+* Domínio (Domain) - O Coração
+
+Onde residem as Entidades e Regras de Negócio puras.
+
+* Aplicação (Application) - O Cérebro
+
+Contém os Casos de Uso (Use Cases) da aplicação. Ela coordena o fluxo de dados.
+
+* Infraestrutura (Infrastructure) - As Ferramentas
+
+Implementa as interfaces definidas no Domínio ou Aplicação.
+
+* Apresentação / API - A porta de entrada do sistema
+
+Como o usuário interage com o sistema.
+
+
+Analogia com restaurante
+
+Salao (Cliente) -  API (Parmegiana Frango) - DTO
+
+Garçom - Application (Parmegiana) - DTO - ReceitaParmegiana
+
+Chef - Domain (Parmegiana - Receita Parmegiana Carne)
+
+Forno - Infrastrutura
+
+
+DTO - Data Transfer Object

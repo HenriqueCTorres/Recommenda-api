@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Recommenda.Application/1.0.0": {
+        "dependencies": {
+          "Recommenda.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Recommenda.Application.dll": {}
+        }
+      },
+      "Recommenda.Domain/1.0.0": {
+        "runtime": {
+          "Recommenda.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recommenda.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Recommenda.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
