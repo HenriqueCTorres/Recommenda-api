@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Recommenda.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdfce6c8ae22597d310b307241dd3eadc782e334")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d957744948b94065be26b1899e74dc9c0eb9296")]
 [assembly: System.Reflection.AssemblyProductAttribute("Recommenda.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Recommenda.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

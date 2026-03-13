@@ -32,9 +32,9 @@ public class Content : BaseEntity
        Description = description;
 
        //invariante
-       if (releaseYear < 1895 || releaseYear > DateTime.Now.AddYears(2).Year)
-           throw new Exception("Release year must be greater than 1895");
-       
+       //if (releaseYear < 1895 || releaseYear > DateTime.Now.AddYears(2).Year)
+       //    throw new Exception("Release year must be greater than 1895");
+       //
        ReleaseYear = releaseYear;
 
        

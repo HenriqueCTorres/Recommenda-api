@@ -13,8 +13,8 @@ public class ContentRequest
     
     public string Description { get; set; }
     
-    [Required(ErrorMessage = "ReleaseYear is required")]
-    [Range(1888,2030, ErrorMessage = "ReleaseYear must be between 1888 and 2030")]
+    //[Required(ErrorMessage = "ReleaseYear is required")]
+    //[Range(1888,2030, ErrorMessage = "ReleaseYear must be between 1888 and 2030")]
     public int ReleaseYear { get; private set; } 
 
     public Content ToDomain() => 
